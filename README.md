@@ -1,4 +1,4 @@
-# nearestLocation.js
+# nearest_location.js
 
 A javascript code for get the closest coordinate in an array of coordinates. 
 
