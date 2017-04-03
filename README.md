@@ -24,5 +24,5 @@ Example
 </code>
 
 **OBS**
-This is an apaptation created for azeredogab.com from Andrew's code (stackoverflow: http://stackoverflow.com/users/622104/andrew-opengeocode)
+This is an application created for azeredogab.com from Andrew's code (stackoverflow: http://stackoverflow.com/users/622104/andrew-opengeocode)
 
