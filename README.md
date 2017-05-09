@@ -18,7 +18,7 @@ Example
         ["Uberlândia", -18.9220586, -48.3336047]
     ];
 
-    let location window.getNearestLocation(lat, lng, targets);
+    let location = window.getNearestLocation(lat, lng, targets);
 
     location -> ["Anápolis", -16.3333353, -49.0194964]
 </code>
